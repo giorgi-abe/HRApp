@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Core" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationAuthentication\ApplicationAuthentication.csproj" />
+    <ProjectReference Include="..\ApplicationDatabaseModels\ApplicationDatabaseModels.csproj" />
+    <ProjectReference Include="..\ApplicationDomainCore\ApplicationDomainCore.csproj" />
+    <ProjectReference Include="..\ApplicationDtos\ApplicationDtos.csproj" />
+    <ProjectReference Include="..\ApplicationServices\ApplicationServices.csproj" />
+  </ItemGroup>
+
+</Project>

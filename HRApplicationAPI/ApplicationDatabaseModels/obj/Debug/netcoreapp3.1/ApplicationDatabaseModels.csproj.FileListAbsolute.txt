@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.deps.json
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb

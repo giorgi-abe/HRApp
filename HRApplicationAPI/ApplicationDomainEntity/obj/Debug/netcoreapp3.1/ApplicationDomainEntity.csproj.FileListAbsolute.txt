@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.deps.json
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainEntity\obj\Debug\netcoreapp3.1\ApplicationDomainEntity.genruntimeconfig.cache

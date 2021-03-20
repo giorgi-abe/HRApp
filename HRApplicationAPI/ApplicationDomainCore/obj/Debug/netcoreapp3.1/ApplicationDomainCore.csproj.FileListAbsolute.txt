@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.deps.json
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDtos.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDtos.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.pdb

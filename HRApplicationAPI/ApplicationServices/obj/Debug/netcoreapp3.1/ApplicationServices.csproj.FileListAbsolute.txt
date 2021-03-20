@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationServices.deps.json
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationServices.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationServices.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationDtos.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\bin\Debug\netcoreapp3.1\ApplicationDtos.pdb
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.dll
+C:\Users\User\OneDrive\Desktop\Job\HRApplicationAPI\ApplicationServices\obj\Debug\netcoreapp3.1\ApplicationServices.pdb

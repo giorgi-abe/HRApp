@@ -1,0 +1,483 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationCQRS\\ApplicationCQRS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationAuthentication\\ApplicationAuthentication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationAuthentication\\ApplicationAuthentication.csproj",
+        "projectName": "ApplicationAuthentication",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationAuthentication\\ApplicationAuthentication.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationAuthentication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationCQRS\\ApplicationCQRS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationCQRS\\ApplicationCQRS.csproj",
+        "projectName": "ApplicationCQRS",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationCQRS\\ApplicationCQRS.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationCQRS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationAuthentication\\ApplicationAuthentication.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationAuthentication\\ApplicationAuthentication.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationServices\\ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationServices\\ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj",
+        "projectName": "ApplicationDatabaseModels",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj",
+        "projectName": "ApplicationDomainCore",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\ApplicationDomainCore.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainEntity\\ApplicationDomainEntity.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainEntity\\ApplicationDomainEntity.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainEntity\\ApplicationDomainEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainEntity\\ApplicationDomainEntity.csproj",
+        "projectName": "ApplicationDomainEntity",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainEntity\\ApplicationDomainEntity.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDomainEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj",
+        "projectName": "ApplicationDtos",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationServices\\ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationServices\\ApplicationServices.csproj",
+        "projectName": "ApplicationServices",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationServices\\ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDatabaseModels\\ApplicationDatabaseModels.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Job\\HRApplicationAPI\\ApplicationDtos\\ApplicationDtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
