@@ -26,7 +26,7 @@ namespace ApplicationCQRS.Handlers.UserC
         public async Task<bool> Handle(UpdateUserCommand request, CancellationToken cancellationToken)
         {
             return await _repository.UpdateAsync(request.UserName, _mapper.Map<User>(request.User));
-            //gamarjoba.me var nuca da miyvars giorgi wohoooooooooooooooooo. me vwer kods
+            
         }
     }
 }
